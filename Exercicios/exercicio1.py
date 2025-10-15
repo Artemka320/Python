@@ -5,6 +5,3 @@ minutos = (segundos % 3600) // 60
 
 print("Horas",horas)
 print("Minutos",minutos)
-
-
-
